@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Web437';
+    src: url('../fonts/Web437_IBM_VGA_8x14.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 2em auto;
+    max-width: 80ch;
+    padding: 2em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Web437', monospace;
+    margin-bottom: 1em;
+}
